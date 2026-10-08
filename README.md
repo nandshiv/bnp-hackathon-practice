@@ -1,9 +1,12 @@
 # BNP Hackathon Practice
 
 ## Team
+
 - Shiv Nand (lead)
 - Priya (backend)
 - Rahul (frontend)
 
 ## How to run
-TBD
+
+pip install -r requirements.txt
+python -m app
